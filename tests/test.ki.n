@@ -1,0 +1,356 @@
+
+>>: 
+ Morphs  [adam,ki,git,ti]
+
+>>: 
+ Morphs  [adam,da,ki,git,ti]
+
+Surface  (((adam) - da) - ki) # (git) - ti
+  Gloss  man-LOC-NREL go-TENSE
+Syn:Sem  s : go`((pro^_4641)^and`(at`pro`man)`_4641)
+
+Surface  ((adam) - da) - ki # ((git) - ti)
+  Gloss  man-LOC-NREL go-TENSE
+Syn:Sem  s : go`((pro^_4641)^and`(at`pro`man)`_4641)
+
+>>: 
+ Morphs  [adam,da,ki,araba,git,ti]
+
+Surface  (((adam) - da) - ki # (araba)) # (git) - ti
+  Gloss  man-LOC-NREL car go-TENSE
+Syn:Sem  s : go`((car^_5953)^and`(at`car`man)`_5953)
+
+Surface  ((adam) - da) - ki # (araba) # ((git) - ti)
+  Gloss  man-LOC-NREL car go-TENSE
+Syn:Sem  s : go`((car^_5953)^and`(at`car`man)`_5953)
+
+>>: 
+ Morphs  [adam,da,ki,araba,lar,git,ti]
+
+Surface  (((adam) - da) - ki # ((araba) - lar)) # (git) - ti
+  Gloss  man-LOC-NREL car-PLU go-TENSE
+Syn:Sem  s : go`((plu`car^_7478)^and`(at`(plu`car)`man)`_7478)
+
+Surface  ((adam) - da) - ki # ((araba) - lar) # ((git) - ti)
+  Gloss  man-LOC-NREL car-PLU go-TENSE
+Syn:Sem  s : go`((plu`car^_7478)^and`(at`(plu`car)`man)`_7478)
+
+Surface  ((((adam) - da) - ki # (araba)) - lar) # (git) - ti
+  Gloss  man-LOC-NREL car-PLU go-TENSE
+Syn:Sem  s : go`((car^_7478)^plu`(and`(at`car`man)`_7478))
+
+Surface  (((adam) - da) - ki # (araba)) - lar # ((git) - ti)
+  Gloss  man-LOC-NREL car-PLU go-TENSE
+Syn:Sem  s : go`(plu`((car^_7475)^and`(at`car`man)`_7475))
+
+>>: 
+ Morphs  [adam,da,ki,araba,sý,git,ti]
+
+>>: 
+ Morphs  [çocuk,adam,da,ki,araba,ya,bak,tý]
+
+Surface  (çocuk) # (((((adam) - da) - ki # (araba)) - ya) # bak) - tý
+  Gloss  child man-LOC-NREL car-DAT look-TENSE
+Syn:Sem  s : look`((car^_9213)^and`(at`car`man)`_9213)`child
+
+Surface  (çocuk) # ((((adam) - da) - ki # (araba)) - ya # (bak)) - tý
+  Gloss  child man-LOC-NREL car-DAT look-TENSE
+Syn:Sem  s : look`((car^_9213)^and`(at`car`man)`_9213)`child
+
+Surface  (çocuk) # (((adam) - da) - ki # (araba)) - ya # ((bak) - tý)
+  Gloss  child man-LOC-NREL car-DAT look-TENSE
+Syn:Sem  s : look`((car^_9213)^and`(at`car`man)`_9213)`child
+
+Surface  (çocuk) # ((((adam) - da) - ki # (araba)) - ya) # (bak) - tý
+  Gloss  child man-LOC-NREL car-DAT look-TENSE
+Syn:Sem  s : look`((car^_9213)^and`(at`car`man)`_9213)`child
+
+Surface  çocuk # ((((((adam) - da) - ki # (araba)) - ya) # bak) - tý)
+  Gloss  child man-LOC-NREL car-DAT look-TENSE
+Syn:Sem  s : look`((car^_9213)^and`(at`car`man)`_9213)`child
+
+Surface  çocuk # (((((adam) - da) - ki # (araba)) - ya # (bak)) - tý)
+  Gloss  child man-LOC-NREL car-DAT look-TENSE
+Syn:Sem  s : look`((car^_9213)^and`(at`car`man)`_9213)`child
+
+Surface  çocuk # ((((adam) - da) - ki # (araba)) - ya # ((bak) - tý))
+  Gloss  child man-LOC-NREL car-DAT look-TENSE
+Syn:Sem  s : look`((car^_9213)^and`(at`car`man)`_9213)`child
+
+Surface  çocuk # (((((adam) - da) - ki # (araba)) - ya) # (bak) - tý)
+  Gloss  child man-LOC-NREL car-DAT look-TENSE
+Syn:Sem  s : look`((car^_9213)^and`(at`car`man)`_9213)`child
+
+Surface  çocuk # ((((adam) - da) - ki # (araba)) - ya) # ((bak) - tý)
+  Gloss  child man-LOC-NREL car-DAT look-TENSE
+Syn:Sem  s : look`((car^_9213)^and`(at`car`man)`_9213)`child
+
+>>: 
+ Morphs  [çocuð,un,ki,git,ti]
+
+Surface  (((çocuð) - un) - ki) # (git) - ti
+  Gloss  child-GEN.3-NREL go-TENSE
+Syn:Sem  s : go`((pro^_4652)^and`(poss`pro`(_4636^poss`_4636`child))`_4652)
+
+Surface  ((çocuð) - un) - ki # ((git) - ti)
+  Gloss  child-GEN.3-NREL go-TENSE
+Syn:Sem  s : go`((pro^_4652)^and`(poss`pro`(_4636^poss`_4636`child))`_4652)
+
+>>: 
+ Morphs  [çocuð,un,ki,araba,git,ti]
+
+>>: 
+ Morphs  [adam,kredi,de,ki,faiz,e,bak,tý]
+
+Surface  (adam) # (((((kredi) - de) - ki # (faiz)) - e) # bak) - tý
+  Gloss  man credit-LOC-NREL interest-DAT look-TENSE
+Syn:Sem  s : look`((interest^_9209)^and`(at`interest`credit)`_9209)`man
+
+Surface  (adam) # ((((kredi) - de) - ki # (faiz)) - e # (bak)) - tý
+  Gloss  man credit-LOC-NREL interest-DAT look-TENSE
+Syn:Sem  s : look`((interest^_9209)^and`(at`interest`credit)`_9209)`man
+
+Surface  (adam) # (((kredi) - de) - ki # (faiz)) - e # ((bak) - tý)
+  Gloss  man credit-LOC-NREL interest-DAT look-TENSE
+Syn:Sem  s : look`((interest^_9209)^and`(at`interest`credit)`_9209)`man
+
+Surface  (adam) # ((((kredi) - de) - ki # (faiz)) - e) # (bak) - tý
+  Gloss  man credit-LOC-NREL interest-DAT look-TENSE
+Syn:Sem  s : look`((interest^_9209)^and`(at`interest`credit)`_9209)`man
+
+Surface  adam # ((((((kredi) - de) - ki # (faiz)) - e) # bak) - tý)
+  Gloss  man credit-LOC-NREL interest-DAT look-TENSE
+Syn:Sem  s : look`((interest^_9209)^and`(at`interest`credit)`_9209)`man
+
+Surface  adam # (((((kredi) - de) - ki # (faiz)) - e # (bak)) - tý)
+  Gloss  man credit-LOC-NREL interest-DAT look-TENSE
+Syn:Sem  s : look`((interest^_9209)^and`(at`interest`credit)`_9209)`man
+
+Surface  adam # ((((kredi) - de) - ki # (faiz)) - e # ((bak) - tý))
+  Gloss  man credit-LOC-NREL interest-DAT look-TENSE
+Syn:Sem  s : look`((interest^_9209)^and`(at`interest`credit)`_9209)`man
+
+Surface  adam # (((((kredi) - de) - ki # (faiz)) - e) # (bak) - tý)
+  Gloss  man credit-LOC-NREL interest-DAT look-TENSE
+Syn:Sem  s : look`((interest^_9209)^and`(at`interest`credit)`_9209)`man
+
+Surface  adam # ((((kredi) - de) - ki # (faiz)) - e) # ((bak) - tý)
+  Gloss  man credit-LOC-NREL interest-DAT look-TENSE
+Syn:Sem  s : look`((interest^_9209)^and`(at`interest`credit)`_9209)`man
+
+>>: 
+ Morphs  [adam,araba,da,ki,çocuð,u,gör,dü]
+
+Surface  (adam) # (((((araba) - da) - ki # (çocuð)) - u) # gör) - dü
+  Gloss  man car-LOC-NREL child-ACC see-TENSE
+Syn:Sem  s : see`((child^_9211)^and`(at`child`car)`_9211)`man
+
+Surface  (adam) # ((((araba) - da) - ki # (çocuð)) - u # (gör)) - dü
+  Gloss  man car-LOC-NREL child-ACC see-TENSE
+Syn:Sem  s : see`((child^_9211)^and`(at`child`car)`_9211)`man
+
+Surface  (adam) # (((araba) - da) - ki # (çocuð)) - u # ((gör) - dü)
+  Gloss  man car-LOC-NREL child-ACC see-TENSE
+Syn:Sem  s : see`((child^_9211)^and`(at`child`car)`_9211)`man
+
+Surface  (adam) # ((((araba) - da) - ki # (çocuð)) - u) # (gör) - dü
+  Gloss  man car-LOC-NREL child-ACC see-TENSE
+Syn:Sem  s : see`((child^_9211)^and`(at`child`car)`_9211)`man
+
+Surface  adam # ((((((araba) - da) - ki # (çocuð)) - u) # gör) - dü)
+  Gloss  man car-LOC-NREL child-ACC see-TENSE
+Syn:Sem  s : see`((child^_9211)^and`(at`child`car)`_9211)`man
+
+Surface  adam # (((((araba) - da) - ki # (çocuð)) - u # (gör)) - dü)
+  Gloss  man car-LOC-NREL child-ACC see-TENSE
+Syn:Sem  s : see`((child^_9211)^and`(at`child`car)`_9211)`man
+
+Surface  adam # ((((araba) - da) - ki # (çocuð)) - u # ((gör) - dü))
+  Gloss  man car-LOC-NREL child-ACC see-TENSE
+Syn:Sem  s : see`((child^_9211)^and`(at`child`car)`_9211)`man
+
+Surface  adam # (((((araba) - da) - ki # (çocuð)) - u) # (gör) - dü)
+  Gloss  man car-LOC-NREL child-ACC see-TENSE
+Syn:Sem  s : see`((child^_9211)^and`(at`child`car)`_9211)`man
+
+Surface  adam # ((((araba) - da) - ki # (çocuð)) - u) # ((gör) - dü)
+  Gloss  man car-LOC-NREL child-ACC see-TENSE
+Syn:Sem  s : see`((child^_9211)^and`(at`child`car)`_9211)`man
+
+>>: 
+ Morphs  [adam,çocuk,lar,da,ki,araba,yý,gör,dü]
+
+Surface  (adam) # ((((((çocuk) - lar) - da) - ki # (araba)) - yý) # gör) - dü
+  Gloss  man child-PLU-LOC-NREL car-ACC see-TENSE
+Syn:Sem  s : see`((car^_11166)^and`(at`car`(plu`child))`_11166)`man
+
+Surface  (adam) # (((((çocuk) - lar) - da) - ki # (araba)) - yý # (gör)) - dü
+  Gloss  man child-PLU-LOC-NREL car-ACC see-TENSE
+Syn:Sem  s : see`((car^_11166)^and`(at`car`(plu`child))`_11166)`man
+
+Surface  (adam) # ((((çocuk) - lar) - da) - ki # (araba)) - yý # ((gör) - dü)
+  Gloss  man child-PLU-LOC-NREL car-ACC see-TENSE
+Syn:Sem  s : see`((car^_11166)^and`(at`car`(plu`child))`_11166)`man
+
+Surface  (adam) # (((((çocuk) - lar) - da) - ki # (araba)) - yý) # (gör) - dü
+  Gloss  man child-PLU-LOC-NREL car-ACC see-TENSE
+Syn:Sem  s : see`((car^_11166)^and`(at`car`(plu`child))`_11166)`man
+
+Surface  adam # (((((((çocuk) - lar) - da) - ki # (araba)) - yý) # gör) - dü)
+  Gloss  man child-PLU-LOC-NREL car-ACC see-TENSE
+Syn:Sem  s : see`((car^_11166)^and`(at`car`(plu`child))`_11166)`man
+
+Surface  adam # ((((((çocuk) - lar) - da) - ki # (araba)) - yý # (gör)) - dü)
+  Gloss  man child-PLU-LOC-NREL car-ACC see-TENSE
+Syn:Sem  s : see`((car^_11166)^and`(at`car`(plu`child))`_11166)`man
+
+Surface  adam # (((((çocuk) - lar) - da) - ki # (araba)) - yý # ((gör) - dü))
+  Gloss  man child-PLU-LOC-NREL car-ACC see-TENSE
+Syn:Sem  s : see`((car^_11166)^and`(at`car`(plu`child))`_11166)`man
+
+Surface  adam # ((((((çocuk) - lar) - da) - ki # (araba)) - yý) # (gör) - dü)
+  Gloss  man child-PLU-LOC-NREL car-ACC see-TENSE
+Syn:Sem  s : see`((car^_11166)^and`(at`car`(plu`child))`_11166)`man
+
+Surface  adam # (((((çocuk) - lar) - da) - ki # (araba)) - yý) # ((gör) - dü)
+  Gloss  man child-PLU-LOC-NREL car-ACC see-TENSE
+Syn:Sem  s : see`((car^_11166)^and`(at`car`(plu`child))`_11166)`man
+
+>>: 
+ Morphs  [ev,in,ki,uyu,du]
+
+Surface  (((ev) - in) - ki) # (uyu) - du
+  Gloss  house-GEN.3-NREL sleep-TENSE
+Syn:Sem  s : sleep`((pro^_4646)^and`(poss`pro`(_4630^poss`_4630`house))`_4646)
+
+Surface  ((ev) - in) - ki # ((uyu) - du)
+  Gloss  house-GEN.3-NREL sleep-TENSE
+Syn:Sem  s : sleep`((pro^_4646)^and`(poss`pro`(_4630^poss`_4630`house))`_4646)
+
+>>: 
+ Morphs  [ev,ler,de,ki,ler,in,ki,uyu,du]
+
+>>: 
+ Morphs  [ev,ler,de,ki,ler,ki,uyu,du]
+
+>>: 
+ Morphs  [adam,da,ki,si,uyu,du]
+
+>>: 
+ Morphs  [çocuk,dam,da,ki,ni,gör,dü]
+
+>>: 
+ Morphs  [çocuk,adam,da,ki,yi,gör,dü]
+
+Surface  (çocuk) # (((((adam) - da) - ki) - yi) # gör) - dü
+  Gloss  child man-LOC-NREL-ACC see-TENSE
+Syn:Sem  s : see`((pro^_7473)^and`(at`pro`man)`_7473)`child
+
+Surface  (çocuk) # ((((adam) - da) - ki) - yi # (gör)) - dü
+  Gloss  child man-LOC-NREL-ACC see-TENSE
+Syn:Sem  s : see`((pro^_7473)^and`(at`pro`man)`_7473)`child
+
+Surface  (çocuk) # (((adam) - da) - ki) - yi # ((gör) - dü)
+  Gloss  child man-LOC-NREL-ACC see-TENSE
+Syn:Sem  s : see`((pro^_7473)^and`(at`pro`man)`_7473)`child
+
+Surface  (çocuk) # ((((adam) - da) - ki) - yi) # (gör) - dü
+  Gloss  child man-LOC-NREL-ACC see-TENSE
+Syn:Sem  s : see`((pro^_7473)^and`(at`pro`man)`_7473)`child
+
+Surface  çocuk # ((((((adam) - da) - ki) - yi) # gör) - dü)
+  Gloss  child man-LOC-NREL-ACC see-TENSE
+Syn:Sem  s : see`((pro^_7473)^and`(at`pro`man)`_7473)`child
+
+Surface  çocuk # (((((adam) - da) - ki) - yi # (gör)) - dü)
+  Gloss  child man-LOC-NREL-ACC see-TENSE
+Syn:Sem  s : see`((pro^_7473)^and`(at`pro`man)`_7473)`child
+
+Surface  çocuk # ((((adam) - da) - ki) - yi # ((gör) - dü))
+  Gloss  child man-LOC-NREL-ACC see-TENSE
+Syn:Sem  s : see`((pro^_7473)^and`(at`pro`man)`_7473)`child
+
+Surface  çocuk # (((((adam) - da) - ki) - yi) # (gör) - dü)
+  Gloss  child man-LOC-NREL-ACC see-TENSE
+Syn:Sem  s : see`((pro^_7473)^and`(at`pro`man)`_7473)`child
+
+Surface  çocuk # ((((adam) - da) - ki) - yi) # ((gör) - dü)
+  Gloss  child man-LOC-NREL-ACC see-TENSE
+Syn:Sem  s : see`((pro^_7473)^and`(at`pro`man)`_7473)`child
+
+>>: 
+ Morphs  [vur,da,ki,uyu,du]
+
+>>: 
+ Morphs  [ev,ler,imiz,de,ki,ler,uyu,du]
+
+>>: 
+ Morphs  [biz,im,ev,ler,imiz,de,ki,ler,uyu,du]
+
+Surface  (((((biz) - im # (((ev) - ler) - imiz)) - de) - ki) - ler) # (uyu) - du
+  Gloss  we-GEN.1 house-PLU-POSS.1p-LOC-NREL-PLU sleep-TENSE
+Syn:Sem  s : sleep`((pro^_13329)^plu`(and`(at`pro`(poss`(plu`house)`we))`_13329))
+
+Surface  ((((biz) - im # (((ev) - ler) - imiz)) - de) - ki) - ler # ((uyu) - du)
+  Gloss  we-GEN.1 house-PLU-POSS.1p-LOC-NREL-PLU sleep-TENSE
+Syn:Sem  s : sleep`(plu`((pro^_13326)^and`(at`pro`(poss`(plu`house)`we))`_13326))
+
+>>: 
+ Morphs  [ev,ler,imiz,de,ki,ler,i,uyu,du]
+
+>>: 
+ Morphs  [adam,biz,im,ev,ler,imiz,de,ki,ler,i,gör,dü]
+
+Surface  (adam) # (((((((biz) - im # (((ev) - ler) - imiz)) - de) - ki) - ler) - i) # gör) - dü
+  Gloss  man we-GEN.1 house-PLU-POSS.1p-LOC-NREL-PLU-ACC see-TENSE
+Syn:Sem  s : see`((pro^_18297)^plu`(and`(at`pro`(poss`(plu`house)`we))`_18297))`man
+
+Surface  (adam) # ((((((biz) - im # (((ev) - ler) - imiz)) - de) - ki) - ler) - i # (gör)) - dü
+  Gloss  man we-GEN.1 house-PLU-POSS.1p-LOC-NREL-PLU-ACC see-TENSE
+Syn:Sem  s : see`((pro^_18297)^plu`(and`(at`pro`(poss`(plu`house)`we))`_18297))`man
+
+Surface  (adam) # (((((biz) - im # (((ev) - ler) - imiz)) - de) - ki) - ler) - i # ((gör) - dü)
+  Gloss  man we-GEN.1 house-PLU-POSS.1p-LOC-NREL-PLU-ACC see-TENSE
+Syn:Sem  s : see`((pro^_18297)^plu`(and`(at`pro`(poss`(plu`house)`we))`_18297))`man
+
+Surface  (adam) # ((((((biz) - im # (((ev) - ler) - imiz)) - de) - ki) - ler) - i) # (gör) - dü
+  Gloss  man we-GEN.1 house-PLU-POSS.1p-LOC-NREL-PLU-ACC see-TENSE
+Syn:Sem  s : see`((pro^_18297)^plu`(and`(at`pro`(poss`(plu`house)`we))`_18297))`man
+
+Surface  adam # ((((((((biz) - im # (((ev) - ler) - imiz)) - de) - ki) - ler) - i) # gör) - dü)
+  Gloss  man we-GEN.1 house-PLU-POSS.1p-LOC-NREL-PLU-ACC see-TENSE
+Syn:Sem  s : see`((pro^_18297)^plu`(and`(at`pro`(poss`(plu`house)`we))`_18297))`man
+
+Surface  adam # (((((((biz) - im # (((ev) - ler) - imiz)) - de) - ki) - ler) - i # (gör)) - dü)
+  Gloss  man we-GEN.1 house-PLU-POSS.1p-LOC-NREL-PLU-ACC see-TENSE
+Syn:Sem  s : see`((pro^_18297)^plu`(and`(at`pro`(poss`(plu`house)`we))`_18297))`man
+
+Surface  adam # ((((((biz) - im # (((ev) - ler) - imiz)) - de) - ki) - ler) - i # ((gör) - dü))
+  Gloss  man we-GEN.1 house-PLU-POSS.1p-LOC-NREL-PLU-ACC see-TENSE
+Syn:Sem  s : see`((pro^_18297)^plu`(and`(at`pro`(poss`(plu`house)`we))`_18297))`man
+
+Surface  adam # (((((((biz) - im # (((ev) - ler) - imiz)) - de) - ki) - ler) - i) # (gör) - dü)
+  Gloss  man we-GEN.1 house-PLU-POSS.1p-LOC-NREL-PLU-ACC see-TENSE
+Syn:Sem  s : see`((pro^_18297)^plu`(and`(at`pro`(poss`(plu`house)`we))`_18297))`man
+
+Surface  adam # ((((((biz) - im # (((ev) - ler) - imiz)) - de) - ki) - ler) - i) # ((gör) - dü)
+  Gloss  man we-GEN.1 house-PLU-POSS.1p-LOC-NREL-PLU-ACC see-TENSE
+Syn:Sem  s : see`((pro^_18297)^plu`(and`(at`pro`(poss`(plu`house)`we))`_18297))`man
+
+>>: 
+ Morphs  [ev,ler,imiz,de,ki,ler,in]
+
+>>: 
+ Morphs  [biz,im,ev,ler,imiz,de,ki,ler,in,çocuð,u,uyu,du]
+
+>>: 
+ Morphs  [bye]
+
+
+%** Parser switches:
+%**
+%**   Normal Form parse : off
+%**   Surface attachment: off
+
+
+run time : 1050 msec.

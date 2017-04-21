@@ -1,0 +1,371 @@
+
+>>: 
+ Morphs  [adam,araba,ya,vur,du]
+
+Surface  adam # (((araba) - ya # (vur)) - du)
+  Gloss  man car-DAT kick-TENSE
+Syn:Sem  s : kick`car`man
+
+Surface  adam # ((araba) - ya # ((vur) - du))
+  Gloss  man car-DAT kick-TENSE
+Syn:Sem  s : kick`car`man
+
+Surface  adam # ((araba) - ya) # ((vur) - du)
+  Gloss  man car-DAT kick-TENSE
+Syn:Sem  s : kick`car`man
+
+>>: 
+ Morphs  [adam,araba,da,uyu,du]
+
+>>: 
+ Morphs  [adam,uyu,du,araba,da]
+
+Surface  adam # (((uyu) - du) # (araba) - da)
+  Gloss  man sleep-TENSE car-LOC
+Syn:Sem  s : at`(sleep`man)`car
+
+Surface  (adam # ((uyu) - du)) # (araba) - da
+  Gloss  man sleep-TENSE car-LOC
+Syn:Sem  s : at`(sleep`man)`car
+
+>>: 
+ Morphs  [uyu,du,adam,araba,da]
+
+Surface  (uyu) # ((du) # adam) # (araba) - da
+  Gloss  sleep -TENSE man car-LOC
+Syn:Sem  st : at`(sleep`man)`car
+
+Surface  (uyu) # (du) # (adam) # (araba) - da
+  Gloss  sleep -TENSE man car-LOC
+Syn:Sem  st : at`(sleep`man)`car
+
+Surface  ((uyu) - du) # (adam) # (araba) - da
+  Gloss  sleep-TENSE man car-LOC
+Syn:Sem  st : at`(sleep`man)`car
+
+Surface  (((uyu) - du) # adam) # (araba) - da
+  Gloss  sleep-TENSE man car-LOC
+Syn:Sem  st : at`(sleep`man)`car
+
+Surface  ((uyu) # (du) # adam) # (araba) - da
+  Gloss  sleep -TENSE man car-LOC
+Syn:Sem  st : at`(sleep`man)`car
+
+>>: 
+ Morphs  [adam,çocuð,a,kitab,ý,oku,du]
+
+>>: 
+ Morphs  [adam,kitab,ý,çocuð,a,oku,du]
+
+>>: 
+ Morphs  [çocuð,a,adam,kitab,ý,oku,du]
+
+Surface  (çocuð) - a # (adam # ((kitab) - ý) # ((oku) - du))
+  Gloss  child-DAT man book-ACC read-TENSE
+Syn:Sem  s : to`(read`book`man)`child
+
+Surface  (çocuð) - a # (adam # ((kitab) - ý # ((oku) - du)))
+  Gloss  child-DAT man book-ACC read-TENSE
+Syn:Sem  s : to`(read`book`man)`child
+
+Surface  (çocuð) - a # (adam # (((kitab) - ý # (oku)) - du))
+  Gloss  child-DAT man book-ACC read-TENSE
+Syn:Sem  s : to`(read`book`man)`child
+
+Surface  (çocuð) - a # (adam) # (((kitab) - ý # (oku)) - du)
+  Gloss  child-DAT man book-ACC read-TENSE
+Syn:Sem  s : to`(read`book`man)`child
+
+Surface  (çocuð) - a # (adam) # ((kitab) - ý # ((oku) - du))
+  Gloss  child-DAT man book-ACC read-TENSE
+Syn:Sem  s : to`(read`book`man)`child
+
+Surface  (çocuð) - a # (adam) # ((kitab) - ý) # ((oku) - du)
+  Gloss  child-DAT man book-ACC read-TENSE
+Syn:Sem  s : to`(read`book`man)`child
+
+Surface  (çocuð) - a # (adam # ((kitab) - ý)) # ((oku) - du)
+  Gloss  child-DAT man book-ACC read-TENSE
+Syn:Sem  s : to`(read`book`man)`child
+
+>>: 
+ Morphs  [çocuk,ev,de,kitab,ý,oku,du]
+
+>>: 
+ Morphs  [çocuk,kitab,ý,oku,du,ev,de]
+
+Surface  çocuk # (((kitab) - ý # ((oku) - du)) # (ev) - de)
+  Gloss  child book-ACC read-TENSE house-LOC
+Syn:Sem  s : at`(read`book`child)`house
+
+Surface  çocuk # ((((kitab) - ý # (oku)) - du) # (ev) - de)
+  Gloss  child book-ACC read-TENSE house-LOC
+Syn:Sem  s : at`(read`book`child)`house
+
+Surface  çocuk # ((kitab) - ý # (((oku) - du) # (ev) - de))
+  Gloss  child book-ACC read-TENSE house-LOC
+Syn:Sem  s : at`(read`book`child)`house
+
+Surface  çocuk # ((kitab) - ý) # (((oku) - du) # (ev) - de)
+  Gloss  child book-ACC read-TENSE house-LOC
+Syn:Sem  s : at`(read`book`child)`house
+
+Surface  (çocuk) # (kitab) - ý # (((oku) - du) # (ev) - de)
+  Gloss  child book-COMP read-TENSE house-LOC
+Syn:Sem  s\np : _7922^at`(read`(comp`book`child)`_7922)`house
+
+Surface  (çocuk) # (kitab) - ý # (((oku) - du) # (ev) - de)
+  Gloss  child book-COMP read-TENSE house-LOC
+Syn:Sem  s\np : _7922^at`(read`_7922`(comp`book`child))`house
+
+Surface  (((çocuk) # (kitab) - ý # (oku)) - du) # (ev) - de
+  Gloss  child book-COMP read-TENSE house-LOC
+Syn:Sem  s\np : _7922^at`(read`(comp`book`child)`_7922)`house
+
+Surface  (((çocuk) # (kitab) - ý # (oku)) - du) # (ev) - de
+  Gloss  child book-COMP read-TENSE house-LOC
+Syn:Sem  s\np : _7922^at`(read`_7922`(comp`book`child))`house
+
+Surface  ((çocuk) # (kitab) - ý # ((oku) - du)) # (ev) - de
+  Gloss  child book-COMP read-TENSE house-LOC
+Syn:Sem  s\np : _7922^at`(read`(comp`book`child)`_7922)`house
+
+Surface  ((çocuk) # (kitab) - ý # ((oku) - du)) # (ev) - de
+  Gloss  child book-COMP read-TENSE house-LOC
+Syn:Sem  s\np : _7922^at`(read`_7922`(comp`book`child))`house
+
+Surface  (çocuk # ((kitab) - ý) # ((oku) - du)) # (ev) - de
+  Gloss  child book-ACC read-TENSE house-LOC
+Syn:Sem  s : at`(read`book`child)`house
+
+Surface  (çocuk # ((kitab) - ý # ((oku) - du))) # (ev) - de
+  Gloss  child book-ACC read-TENSE house-LOC
+Syn:Sem  s : at`(read`book`child)`house
+
+Surface  (çocuk # (((kitab) - ý # (oku)) - du)) # (ev) - de
+  Gloss  child book-ACC read-TENSE house-LOC
+Syn:Sem  s : at`(read`book`child)`house
+
+>>: 
+ Morphs  [çocuk,ev,de,kitab,ý,mehmet,e,ver,di]
+
+>>: 
+ Morphs  [çocuk,kitab,ý,mehmet,e,ver,di,ev,de]
+
+Surface  çocuk # (((kitab) - ý # (((mehmet) - e # (ver)) - di)) # (ev) - de)
+  Gloss  child book-ACC mehmet-DAT give-TENSE house-LOC
+Syn:Sem  s : at`(give`mehmet`book`child)`house
+
+Surface  çocuk # (((kitab) - ý # ((mehmet) - e # ((ver) - di))) # (ev) - de)
+  Gloss  child book-ACC mehmet-DAT give-TENSE house-LOC
+Syn:Sem  s : at`(give`mehmet`book`child)`house
+
+Surface  çocuk # (((kitab) - ý # ((mehmet) - e) # ((ver) - di)) # (ev) - de)
+  Gloss  child book-ACC mehmet-DAT give-TENSE house-LOC
+Syn:Sem  s : at`(give`mehmet`book`child)`house
+
+Surface  çocuk # ((((kitab) - ý # ((mehmet) - e # (ver))) - di) # (ev) - de)
+  Gloss  child book-ACC mehmet-DAT give-TENSE house-LOC
+Syn:Sem  s : at`(give`mehmet`book`child)`house
+
+Surface  çocuk # ((kitab) - ý # ((((mehmet) - e # (ver)) - di) # (ev) - de))
+  Gloss  child book-ACC mehmet-DAT give-TENSE house-LOC
+Syn:Sem  s : at`(give`mehmet`book`child)`house
+
+Surface  çocuk # ((kitab) - ý # (((mehmet) - e # ((ver) - di)) # (ev) - de))
+  Gloss  child book-ACC mehmet-DAT give-TENSE house-LOC
+Syn:Sem  s : at`(give`mehmet`book`child)`house
+
+Surface  çocuk # ((kitab) - ý) # (((mehmet) - e # ((ver) - di)) # (ev) - de)
+  Gloss  child book-ACC mehmet-DAT give-TENSE house-LOC
+Syn:Sem  s : at`(give`mehmet`book`child)`house
+
+Surface  çocuk # ((kitab) - ý) # ((((mehmet) - e # (ver)) - di) # (ev) - de)
+  Gloss  child book-ACC mehmet-DAT give-TENSE house-LOC
+Syn:Sem  s : at`(give`mehmet`book`child)`house
+
+Surface  (çocuk) # (kitab) - ý # (((mehmet) - e # ((ver) - di)) # (ev) - de)
+  Gloss  child book-COMP mehmet-DAT give-TENSE house-LOC
+Syn:Sem  s\np : _11613^at`(give`mehmet`(comp`book`child)`_11613)`house
+
+Surface  (çocuk) # (kitab) - ý # (((mehmet) - e # ((ver) - di)) # (ev) - de)
+  Gloss  child book-COMP mehmet-DAT give-TENSE house-LOC
+Syn:Sem  s\np : _11613^at`(give`mehmet`_11613`(comp`book`child))`house
+
+Surface  (çocuk) # (kitab) - ý # ((((mehmet) - e # (ver)) - di) # (ev) - de)
+  Gloss  child book-COMP mehmet-DAT give-TENSE house-LOC
+Syn:Sem  s\np : _11613^at`(give`mehmet`(comp`book`child)`_11613)`house
+
+Surface  (çocuk) # (kitab) - ý # ((((mehmet) - e # (ver)) - di) # (ev) - de)
+  Gloss  child book-COMP mehmet-DAT give-TENSE house-LOC
+Syn:Sem  s\np : _11613^at`(give`mehmet`_11613`(comp`book`child))`house
+
+Surface  (((çocuk) # (kitab) - ý # ((mehmet) - e # (ver))) - di) # (ev) - de
+  Gloss  child book-COMP mehmet-DAT give-TENSE house-LOC
+Syn:Sem  s\np : _11613^at`(give`mehmet`(comp`book`child)`_11613)`house
+
+Surface  (((çocuk) # (kitab) - ý # ((mehmet) - e # (ver))) - di) # (ev) - de
+  Gloss  child book-COMP mehmet-DAT give-TENSE house-LOC
+Syn:Sem  s\np : _11613^at`(give`mehmet`_11613`(comp`book`child))`house
+
+Surface  (çocuk # ((kitab) - ý # ((mehmet) - e)) # ((ver) - di)) # (ev) - de
+  Gloss  child book-ACC mehmet-DAT give-TENSE house-LOC
+Syn:Sem  s : at`(give`mehmet`book`child)`house
+
+Surface  (çocuk # ((kitab) - ý) # ((mehmet) - e) # ((ver) - di)) # (ev) - de
+  Gloss  child book-ACC mehmet-DAT give-TENSE house-LOC
+Syn:Sem  s : at`(give`mehmet`book`child)`house
+
+Surface  ((çocuk) # (kitab) - ý # ((mehmet) - e) # ((ver) - di)) # (ev) - de
+  Gloss  child book-COMP mehmet-DAT give-TENSE house-LOC
+Syn:Sem  s\np : _11613^at`(give`mehmet`_11613`(comp`book`child))`house
+
+Surface  ((çocuk) # (kitab) - ý # ((mehmet) - e) # ((ver) - di)) # (ev) - de
+  Gloss  child book-COMP mehmet-DAT give-TENSE house-LOC
+Syn:Sem  s\np : _11613^at`(give`mehmet`(comp`book`child)`_11613)`house
+
+Surface  ((çocuk) # (kitab) - ý # ((mehmet) - e # ((ver) - di))) # (ev) - de
+  Gloss  child book-COMP mehmet-DAT give-TENSE house-LOC
+Syn:Sem  s\np : _11613^at`(give`mehmet`(comp`book`child)`_11613)`house
+
+Surface  ((çocuk) # (kitab) - ý # ((mehmet) - e # ((ver) - di))) # (ev) - de
+  Gloss  child book-COMP mehmet-DAT give-TENSE house-LOC
+Syn:Sem  s\np : _11613^at`(give`mehmet`_11613`(comp`book`child))`house
+
+Surface  ((çocuk) # (kitab) - ý # (((mehmet) - e # (ver)) - di)) # (ev) - de
+  Gloss  child book-COMP mehmet-DAT give-TENSE house-LOC
+Syn:Sem  s\np : _11613^at`(give`mehmet`(comp`book`child)`_11613)`house
+
+Surface  ((çocuk) # (kitab) - ý # (((mehmet) - e # (ver)) - di)) # (ev) - de
+  Gloss  child book-COMP mehmet-DAT give-TENSE house-LOC
+Syn:Sem  s\np : _11613^at`(give`mehmet`_11613`(comp`book`child))`house
+
+Surface  (çocuk # ((kitab) - ý) # ((mehmet) - e # ((ver) - di))) # (ev) - de
+  Gloss  child book-ACC mehmet-DAT give-TENSE house-LOC
+Syn:Sem  s : at`(give`mehmet`book`child)`house
+
+Surface  (çocuk # ((kitab) - ý) # (((mehmet) - e # (ver)) - di)) # (ev) - de
+  Gloss  child book-ACC mehmet-DAT give-TENSE house-LOC
+Syn:Sem  s : at`(give`mehmet`book`child)`house
+
+Surface  (çocuk # ((kitab) - ý # (((mehmet) - e # (ver)) - di))) # (ev) - de
+  Gloss  child book-ACC mehmet-DAT give-TENSE house-LOC
+Syn:Sem  s : at`(give`mehmet`book`child)`house
+
+Surface  (çocuk # ((kitab) - ý # ((mehmet) - e # ((ver) - di)))) # (ev) - de
+  Gloss  child book-ACC mehmet-DAT give-TENSE house-LOC
+Syn:Sem  s : at`(give`mehmet`book`child)`house
+
+Surface  (çocuk # ((kitab) - ý # ((mehmet) - e) # ((ver) - di))) # (ev) - de
+  Gloss  child book-ACC mehmet-DAT give-TENSE house-LOC
+Syn:Sem  s : at`(give`mehmet`book`child)`house
+
+Surface  (çocuk # (((kitab) - ý # ((mehmet) - e # (ver))) - di)) # (ev) - de
+  Gloss  child book-ACC mehmet-DAT give-TENSE house-LOC
+Syn:Sem  s : at`(give`mehmet`book`child)`house
+
+>>: 
+ Morphs  [çocuk,kitab,ý,ev,de,mehmet,e,ver,di]
+
+>>: 
+ Morphs  [çocuk,kitab,ý,mehmet,e,ev,de,ver,di]
+
+>>: 
+ Morphs  [ev,de,çocuk,kitab,ý,mehmet,e,ver,di]
+
+Surface  (ev) - de # (çocuk # ((kitab) - ý # ((mehmet) - e)) # ((ver) - di))
+  Gloss  house-LOC child book-ACC mehmet-DAT give-TENSE
+Syn:Sem  s : at`(give`mehmet`book`child)`house
+
+Surface  (ev) - de # (çocuk # ((kitab) - ý) # ((mehmet) - e) # ((ver) - di))
+  Gloss  house-LOC child book-ACC mehmet-DAT give-TENSE
+Syn:Sem  s : at`(give`mehmet`book`child)`house
+
+Surface  (ev) - de # (çocuk # ((kitab) - ý) # ((mehmet) - e # ((ver) - di)))
+  Gloss  house-LOC child book-ACC mehmet-DAT give-TENSE
+Syn:Sem  s : at`(give`mehmet`book`child)`house
+
+Surface  (ev) - de # (çocuk # ((kitab) - ý) # (((mehmet) - e # (ver)) - di))
+  Gloss  house-LOC child book-ACC mehmet-DAT give-TENSE
+Syn:Sem  s : at`(give`mehmet`book`child)`house
+
+Surface  (ev) - de # (çocuk # ((kitab) - ý # (((mehmet) - e # (ver)) - di)))
+  Gloss  house-LOC child book-ACC mehmet-DAT give-TENSE
+Syn:Sem  s : at`(give`mehmet`book`child)`house
+
+Surface  (ev) - de # (çocuk # ((kitab) - ý # ((mehmet) - e # ((ver) - di))))
+  Gloss  house-LOC child book-ACC mehmet-DAT give-TENSE
+Syn:Sem  s : at`(give`mehmet`book`child)`house
+
+Surface  (ev) - de # (çocuk # ((kitab) - ý # ((mehmet) - e) # ((ver) - di)))
+  Gloss  house-LOC child book-ACC mehmet-DAT give-TENSE
+Syn:Sem  s : at`(give`mehmet`book`child)`house
+
+Surface  (ev) - de # (çocuk # (((kitab) - ý # ((mehmet) - e # (ver))) - di))
+  Gloss  house-LOC child book-ACC mehmet-DAT give-TENSE
+Syn:Sem  s : at`(give`mehmet`book`child)`house
+
+Surface  (ev) - de # (çocuk) # (((kitab) - ý # ((mehmet) - e # (ver))) - di)
+  Gloss  house-LOC child book-ACC mehmet-DAT give-TENSE
+Syn:Sem  s : at`(give`mehmet`book`child)`house
+
+Surface  (ev) - de # (çocuk) # ((kitab) - ý # ((mehmet) - e) # ((ver) - di))
+  Gloss  house-LOC child book-ACC mehmet-DAT give-TENSE
+Syn:Sem  s : at`(give`mehmet`book`child)`house
+
+Surface  (ev) - de # (çocuk) # ((kitab) - ý # ((mehmet) - e # ((ver) - di)))
+  Gloss  house-LOC child book-ACC mehmet-DAT give-TENSE
+Syn:Sem  s : at`(give`mehmet`book`child)`house
+
+Surface  (ev) - de # (çocuk) # ((kitab) - ý # (((mehmet) - e # (ver)) - di))
+  Gloss  house-LOC child book-ACC mehmet-DAT give-TENSE
+Syn:Sem  s : at`(give`mehmet`book`child)`house
+
+Surface  (ev) - de # (çocuk) # ((kitab) - ý) # (((mehmet) - e # (ver)) - di)
+  Gloss  house-LOC child book-ACC mehmet-DAT give-TENSE
+Syn:Sem  s : at`(give`mehmet`book`child)`house
+
+Surface  (ev) - de # (çocuk) # ((kitab) - ý) # ((mehmet) - e # ((ver) - di))
+  Gloss  house-LOC child book-ACC mehmet-DAT give-TENSE
+Syn:Sem  s : at`(give`mehmet`book`child)`house
+
+Surface  (ev) - de # (çocuk # ((kitab) - ý)) # (((mehmet) - e # (ver)) - di)
+  Gloss  house-LOC child book-ACC mehmet-DAT give-TENSE
+Syn:Sem  s : at`(give`mehmet`book`child)`house
+
+Surface  (ev) - de # (çocuk # ((kitab) - ý)) # ((mehmet) - e # ((ver) - di))
+  Gloss  house-LOC child book-ACC mehmet-DAT give-TENSE
+Syn:Sem  s : at`(give`mehmet`book`child)`house
+
+Surface  (ev) - de # (çocuk # ((kitab) - ý)) # ((mehmet) - e) # ((ver) - di)
+  Gloss  house-LOC child book-ACC mehmet-DAT give-TENSE
+Syn:Sem  s : at`(give`mehmet`book`child)`house
+
+Surface  (ev) - de # (çocuk) # ((kitab) - ý) # ((mehmet) - e) # ((ver) - di)
+  Gloss  house-LOC child book-ACC mehmet-DAT give-TENSE
+Syn:Sem  s : at`(give`mehmet`book`child)`house
+
+Surface  (ev) - de # (çocuk) # ((kitab) - ý # ((mehmet) - e)) # ((ver) - di)
+  Gloss  house-LOC child book-ACC mehmet-DAT give-TENSE
+Syn:Sem  s : at`(give`mehmet`book`child)`house
+
+Surface  (ev) - de # (çocuk # ((kitab) - ý # ((mehmet) - e))) # ((ver) - di)
+  Gloss  house-LOC child book-ACC mehmet-DAT give-TENSE
+Syn:Sem  s : at`(give`mehmet`book`child)`house
+
+Surface  (ev) - de # (çocuk # ((kitab) - ý) # ((mehmet) - e)) # ((ver) - di)
+  Gloss  house-LOC child book-ACC mehmet-DAT give-TENSE
+Syn:Sem  s : at`(give`mehmet`book`child)`house
+
+>>: 
+ Morphs  [bye]
+
+
+%** Parser switches:
+%**
+%**   Normal Form parse : off
+%**   PAS equiv. check  : off
+%**   Surface attachment: off
+
+
+run time : 1250 msec.

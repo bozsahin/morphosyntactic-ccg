@@ -1,0 +1,218 @@
+
+>>: 
+ Morphs  [kitab,ý,oku,yan,adam,uyu,du]
+
+Surface  ((kitab) - ý) # (oku) - yan # (adam) # ((uyu) - du)
+  Gloss  book-ACC read-REL.SP man sleep-TENSE
+Syn:Sem  s : and`(sleep`man)`(read`book`man)
+
+Surface  ((kitab) - ý # (oku)) - yan # (adam) # ((uyu) - du)
+  Gloss  book-ACC read-REL.SP man sleep-TENSE
+Syn:Sem  s : and`(sleep`man)`(read`book`man)
+
+Surface  (((kitab) - ý) # oku) - yan # (adam) # ((uyu) - du)
+  Gloss  book-ACC read-REL.SP man sleep-TENSE
+Syn:Sem  s : and`(sleep`man)`(read`book`man)
+
+>>: 
+ Morphs  [kitap,oku,yan,adam,uyu,du]
+
+Surface  (kitap) # (oku) - yan # (adam) # ((uyu) - du)
+  Gloss  book read-REL.SP man sleep-TENSE
+Syn:Sem  s : and`(sleep`man)`(read`book`man)
+
+Surface  (kitap # (oku)) - yan # (adam) # ((uyu) - du)
+  Gloss  book read-REL.SP man sleep-TENSE
+Syn:Sem  s : and`(sleep`man)`(read`book`man)
+
+Surface  ((kitap) # oku) - yan # (adam) # ((uyu) - du)
+  Gloss  book read-REL.SP man sleep-TENSE
+Syn:Sem  s : and`(sleep`man)`(read`book`man)
+
+>>: 
+ Morphs  [çocuð,u,kitap,oku,yan,adam,uyu,du]
+
+Surface  (çocuð) # (u) # (kitap) # (oku) - yan # (adam) # ((uyu) - du)
+  Gloss  child -POSS.3s book read-REL.SP man sleep-TENSE
+Syn:Sem  s : and`(poss`child`man)`(sleep`man)`(read`book`child)
+
+Surface  (çocuð) # (u) # (kitap # (oku)) - yan # (adam) # ((uyu) - du)
+  Gloss  child -POSS.3s book read-REL.SP man sleep-TENSE
+Syn:Sem  s : and`(poss`child`man)`(sleep`man)`(read`book`child)
+
+Surface  (çocuð) # (u) # ((kitap) # oku) - yan # (adam) # ((uyu) - du)
+  Gloss  child -POSS.3s book read-REL.SP man sleep-TENSE
+Syn:Sem  s : and`(poss`child`man)`(sleep`man)`(read`book`child)
+
+Surface  ((çocuð) - u) # ((kitap) # oku) - yan # (adam) # ((uyu) - du)
+  Gloss  child-POSS.3s book read-REL.SP man sleep-TENSE
+Syn:Sem  s : and`(poss`child`man)`(sleep`man)`(read`book`child)
+
+Surface  ((çocuð) - u) # (kitap # (oku)) - yan # (adam) # ((uyu) - du)
+  Gloss  child-POSS.3s book read-REL.SP man sleep-TENSE
+Syn:Sem  s : and`(poss`child`man)`(sleep`man)`(read`book`child)
+
+Surface  ((çocuð) - u) # (kitap) # (oku) - yan # (adam) # ((uyu) - du)
+  Gloss  child-POSS.3s book read-REL.SP man sleep-TENSE
+Syn:Sem  s : and`(poss`child`man)`(sleep`man)`(read`book`child)
+
+>>: 
+ Morphs  [uyu,yan,adam,kitab,ý,oku,du]
+
+Surface  (uyu) - yan # (adam) # ((((kitab) - ý) # oku) - du)
+  Gloss  sleep-REL.SP man book-ACC read-TENSE
+Syn:Sem  s : and`(read`book`man)`(sleep`man)
+
+Surface  (uyu) - yan # (adam) # (((kitab) - ý # (oku)) - du)
+  Gloss  sleep-REL.SP man book-ACC read-TENSE
+Syn:Sem  s : and`(read`book`man)`(sleep`man)
+
+Surface  (uyu) - yan # (adam) # ((kitab) - ý # ((oku) - du))
+  Gloss  sleep-REL.SP man book-ACC read-TENSE
+Syn:Sem  s : and`(read`book`man)`(sleep`man)
+
+Surface  (uyu) - yan # (adam) # (((kitab) - ý) # (oku) - du)
+  Gloss  sleep-REL.SP man book-ACC read-TENSE
+Syn:Sem  s : and`(read`book`man)`(sleep`man)
+
+Surface  (uyu) - yan # (adam) # ((kitab) - ý) # ((oku) - du)
+  Gloss  sleep-REL.SP man book-ACC read-TENSE
+Syn:Sem  s : and`(read`book`man)`(sleep`man)
+
+Surface  (uyu) - yan # ((adam) # (kitab) - ý) # ((oku) - du)
+  Gloss  sleep-REL.SP man book-COMP read-TENSE
+Syn:Sem  s\np : and`(_6384^read`_6384`(comp`book`man))`(sleep`(comp`book`man))
+
+Surface  (uyu) - yan # ((adam) # (kitab) - ý) # ((oku) - du)
+  Gloss  sleep-REL.SP man book-COMP read-TENSE
+Syn:Sem  s\np : and`(_6384^read`(comp`book`man)`_6384)`(sleep`(comp`book`man))
+
+Surface  ((uyu) - yan # ((adam) # (kitab) - ý) # (oku)) - du
+  Gloss  sleep-REL.SP man book-COMP read-TENSE
+Syn:Sem  s\np : and`(_6384^read`_6384`(comp`book`man))`(sleep`(comp`book`man))
+
+Surface  ((uyu) - yan # ((adam) # (kitab) - ý) # (oku)) - du
+  Gloss  sleep-REL.SP man book-COMP read-TENSE
+Syn:Sem  s\np : and`(_6384^read`(comp`book`man)`_6384)`(sleep`(comp`book`man))
+
+>>: 
+ Morphs  [ben,im,gör,düðüm,araba,git,ti]
+
+Surface  (ben) # ((im) # gör) - düðüm # (araba) # ((git) - ti)
+  Gloss  i -AGR see-REL.OP car go-TENSE
+Syn:Sem  s : and`(go`car)`(see`car`i)
+
+Surface  (ben) # (im) # (gör) - düðüm # (araba) # ((git) - ti)
+  Gloss  i -AGR see-REL.OP car go-TENSE
+Syn:Sem  s : and`(go`car)`(see`car`i)
+
+Surface  ((ben) - im) # (gör) - düðüm # (araba) # ((git) - ti)
+  Gloss  i-AGR see-REL.OP car go-TENSE
+Syn:Sem  s : and`(go`car)`(see`car`i)
+
+Surface  (((ben) - im) # gör) - düðüm # (araba) # ((git) - ti)
+  Gloss  i-AGR see-REL.OP car go-TENSE
+Syn:Sem  s : and`(go`car)`(see`car`i)
+
+Surface  ((ben) # (im) # gör) - düðüm # (araba) # ((git) - ti)
+  Gloss  i -AGR see-REL.OP car go-TENSE
+Syn:Sem  s : and`(go`car)`(see`car`i)
+
+>>: 
+ Morphs  [ben,im,gör,dügü,araba,git,ti]
+
+>>: 
+ Morphs  [sen,in,gör,düðün,araba,git,ti]
+
+Surface  (sen) # ((in) # gör) - düðün # (araba) # ((git) - ti)
+  Gloss  you -AGR see-REL.OP car go-TENSE
+Syn:Sem  s : and`(go`car)`(see`car`you)
+
+Surface  (sen) # (in) # (gör) - düðün # (araba) # ((git) - ti)
+  Gloss  you -AGR see-REL.OP car go-TENSE
+Syn:Sem  s : and`(go`car)`(see`car`you)
+
+Surface  ((sen) - in) # (gör) - düðün # (araba) # ((git) - ti)
+  Gloss  you-AGR see-REL.OP car go-TENSE
+Syn:Sem  s : and`(go`car)`(see`car`you)
+
+Surface  (((sen) - in) # gör) - düðün # (araba) # ((git) - ti)
+  Gloss  you-AGR see-REL.OP car go-TENSE
+Syn:Sem  s : and`(go`car)`(see`car`you)
+
+Surface  ((sen) # (in) # gör) - düðün # (araba) # ((git) - ti)
+  Gloss  you -AGR see-REL.OP car go-TENSE
+Syn:Sem  s : and`(go`car)`(see`car`you)
+
+>>: 
+ Morphs  [çocuð,u,uyu,yan,adam,git,ti]
+
+Surface  (çocuð) # (u) # (uyu) - yan # (adam) # ((git) - ti)
+  Gloss  child -POSS.3s sleep-REL.SP man go-TENSE
+Syn:Sem  s : and`(poss`child`man)`(go`man)`(sleep`child)
+
+Surface  ((çocuð) - u) # (uyu) - yan # (adam) # ((git) - ti)
+  Gloss  child-POSS.3s sleep-REL.SP man go-TENSE
+Syn:Sem  s : and`(poss`child`man)`(go`man)`(sleep`child)
+
+>>: 
+ Morphs  [çocuð,un,oku,duðu,kitap,git,ti]
+
+Surface  (çocuð) # ((un) # oku) - duðu # (kitap) # ((git) - ti)
+  Gloss  child -AGR read-REL.OP book go-TENSE
+Syn:Sem  s : and`(go`book)`(read`book`child)
+
+Surface  (çocuð) # (un) # (oku) - duðu # (kitap) # ((git) - ti)
+  Gloss  child -AGR read-REL.OP book go-TENSE
+Syn:Sem  s : and`(go`book)`(read`book`child)
+
+Surface  ((çocuð) - un) # (oku) - duðu # (kitap) # ((git) - ti)
+  Gloss  child-AGR read-REL.OP book go-TENSE
+Syn:Sem  s : and`(go`book)`(read`book`child)
+
+Surface  (((çocuð) - un) # oku) - duðu # (kitap) # ((git) - ti)
+  Gloss  child-AGR read-REL.OP book go-TENSE
+Syn:Sem  s : and`(go`book)`(read`book`child)
+
+Surface  ((çocuð) # (un) # oku) - duðu # (kitap) # ((git) - ti)
+  Gloss  child -AGR read-REL.OP book go-TENSE
+Syn:Sem  s : and`(go`book)`(read`book`child)
+
+>>: 
+ Morphs  [adam,ýn,kitab,ý,ver,diði,çocuk,git,ti]
+
+Surface  (adam) # ((ýn) # (kitab) - ý # (ver)) - diði # (çocuk) # ((git) - ti)
+  Gloss  man -AGR book-ACC give-REL.OP child go-TENSE
+Syn:Sem  s : and`(go`child)`(give`child`book`man)
+
+Surface  (adam) # ((ýn) # ((kitab) - ý) # ver) - diði # (çocuk) # ((git) - ti)
+  Gloss  man -AGR book-ACC give-REL.OP child go-TENSE
+Syn:Sem  s : and`(go`child)`(give`child`book`man)
+
+Surface  (adam) # (ýn) # ((kitab) - ý) # (ver) - diði # (çocuk) # ((git) - ti)
+  Gloss  man -AGR book-ACC give-REL.OP child go-TENSE
+Syn:Sem  s : and`(go`child)`(give`child`book`man)
+
+Surface  (adam) # (ýn) # ((kitab) - ý # (ver)) - diði # (çocuk) # ((git) - ti)
+  Gloss  man -AGR book-ACC give-REL.OP child go-TENSE
+Syn:Sem  s : and`(go`child)`(give`child`book`man)
+
+Surface  (adam) # (ýn) # (((kitab) - ý) # ver) - diði # (çocuk) # ((git) - ti)
+  Gloss  man -AGR book-ACC give-REL.OP child go-TENSE
+Syn:Sem  s : and`(go`child)`(give`child`book`man)
+
+Surface  ((adam) - ýn) # (((kitab) - ý) # ver) - diði # (çocuk) # ((git) - ti)
+  Gloss  man-AGR book-ACC give-REL.OP child go-TENSE
+Syn:Sem  s : and`(go`child)`(give`child`book`man)
+
+Surface  ((adam) - ýn) # ((kitab) - ý # (ver)) - diði # (çocuk) # ((git) - ti)
+  Gloss  man-AGR book-ACC give-REL.OP child go-TENSE
+Syn:Sem  s : and`(go`child)`(give`child`book`man)
+
+Surface  ((adam) - ýn) # ((kitab) - ý) # (ver) - diði # (çocuk) # ((git) - ti)
+  Gloss  man-AGR book-ACC give-REL.OP child go-TENSE
+Syn:Sem  s : and`(go`child)`(give`child`book`man)
+
+Surface  (((adam) - ýn) # ((kitab) - ý) # ver) - diði # (çocuk) # ((git) - ti)
+  Gloss  man-AGR book-ACC give-REL.OP child go-TENSE
+Syn:Sem

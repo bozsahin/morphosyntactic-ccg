@@ -1,0 +1,95 @@
+
+>>: 
+ Morphs  [çocuk,adam,ný,gör,dü]
+
+>>: 
+ Morphs  [kýz,adam,ýn,çocuð,u,nu,gör,dü]
+
+Surface  kýz # ((((adam) - ýn # ((çocuð) - u)) - nu # (gör)) - dü)
+  Gloss  girl man-GEN.3 child-POSS.3s-ACC see-TENSE
+Syn:Sem  s : see`(poss`child`man)`girl
+
+>>: 
+ Morphs  [kýz,adam,ýn,arkadaþ,ý,nýn,çocuð,u,nu,gör,dü]
+
+Surface  kýz # (((((adam) - ýn # ((arkadaþ) - ý)) - nýn # ((çocuð) - u)) - nu # (gör)) - dü)
+  Gloss  girl man-GEN.3 friend-POSS.3s-GEN.3 child-POSS.3s-ACC see-TENSE
+Syn:Sem  s : see`(poss`child`(poss`friend`man))`girl
+
+>>: 
+ Morphs  [kýz,adam,ýn,arkadaþ,ý,nýn,çocuð,u,yu,gör,dü]
+
+>>: 
+ Morphs  [mehmet,top,u,adam,ýn,arkadaþ,ý,na,ver,di]
+
+Surface  mehmet # (((top) - u # (((adam) - ýn # ((arkadaþ) - ý)) - na # (ver))) - di)
+  Gloss  mehmet ball-ACC man-GEN.3 friend-POSS.3s-DAT give-TENSE
+Syn:Sem  s : give`(poss`friend`man)`ball`mehmet
+
+Surface  (mehmet) # (top) - u # ((((adam) - ýn # ((arkadaþ) - ý)) - na # (ver)) - di)
+  Gloss  mehmet ball-COMP man-GEN.3 friend-POSS.3s-DAT give-TENSE
+Syn:Sem  s\np : _13613^give`(poss`friend`man)`_13613`(comp`ball`mehmet)
+
+>>: 
+ Morphs  [mehmet,top,u,adam,ýn,arkadaþ,ý,ya,ver,di]
+
+>>: 
+ Morphs  [adam,araba,sý,ný,gör,dü]
+
+Surface  ((adam) # (araba) - sý) - ný # ((gör) - dü)
+  Gloss  man car-COMP-ACC see-TENSE
+Syn:Sem  s\np : _6230^see`(comp`car`man)`_6230
+
+>>: 
+ Morphs  [adam,araba,sý,yý,gör,dü]
+
+>>: 
+ Morphs  [adam,otobüs,bilet,i,ni,gör,dü]
+
+Surface  adam # ((((otobüs) # (bilet) - i) - ni # (gör)) - dü)
+  Gloss  man bus ticket-COMP-ACC see-TENSE
+Syn:Sem  s : see`(comp`ticket`bus)`man
+
+>>: 
+ Morphs  [adam,kredi,kart,ý,faiz,oran,ý,na,bak,tý]
+
+Surface  adam # (((((kredi) # (kart) - ý) # (faiz) # (oran) - ý) - na # (bak)) - tý)
+  Gloss  man credit card-COMP interest rate-COMP.POSS.3s-DAT look-TENSE
+Syn:Sem  s : look`(comp`(comp`rate`interest)`(comp`card`credit))`man
+
+>>: 
+ Morphs  [mehmet,ben,im,araba,m,ý,gör,dü]
+
+Surface  mehmet # ((((ben) - im # ((araba) - m)) - ý # (gör)) - dü)
+  Gloss  mehmet i-GEN.1 car-POSS.1s-ACC see-TENSE
+Syn:Sem  s : see`(poss`car`i)`mehmet
+
+>>: 
+ Morphs  [çocuk,sen,in,araba,m,a,bak,tý]
+
+>>: 
+ Morphs  [mehmet,onlar,ýn,araba,larý,na,bak,tý]
+
+Surface  mehmet # ((((onlar) - ýn # ((araba) - larý)) - na # (bak)) - tý)
+  Gloss  mehmet they-GEN.3 car-POSS.3p-DAT look-TENSE
+Syn:Sem  s : look`(poss`car`they)`mehmet
+
+>>: 
+ Morphs  [mehmet,onlar,ýn,araba,lar,ý,na,bak,tý]
+
+Surface  mehmet # ((((onlar) - ýn # (((araba) - lar) - ý)) - na # (bak)) - tý)
+  Gloss  mehmet they-GEN.3 car-PLU-POSS.3s-DAT look-TENSE
+Syn:Sem  s : look`(poss`(plu`car)`they)`mehmet
+
+>>: 
+ Morphs  [bye]
+
+
+%** Parser switches:
+%**
+%**   Normal Form parse : off
+%**   PAS equiv. check  : on
+%**   Surface attachment: off
+
+
+run time : 1520 msec.

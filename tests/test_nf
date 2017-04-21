@@ -1,0 +1,10 @@
+?- nfcheck,nopascheck,nosacheck,
+   go2('~bozsahin/cg/testdata/test.order.in','test.order.nf'),
+   go2('~bozsahin/cg/testdata/test.control.in','test.control.nf'),
+   go2('~bozsahin/cg/testdata/test.gen.in','test.gen.nf'),
+   go2('~bozsahin/cg/testdata/test.ki.in','test.ki.nf'),
+   go2('~bozsahin/cg/testdata/test.ni.in','test.ni.nf'),
+   go2('~bozsahin/cg/testdata/test.adj.in','test.adj.nf'),
+   go2('~bozsahin/cg/testdata/test.rc.in','test.rc.nf'),
+   go2('~bozsahin/cg/testdata/test.subord.in','test.subord.nf'),
+   go2('~bozsahin/cg/testdata/all.in','test.all.nf').
