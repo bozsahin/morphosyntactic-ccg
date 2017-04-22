@@ -10,13 +10,6 @@ version 0.4
 Cem Bozsahin, METU, 1996-2001
 http://www.metu.edu.tr/~bozsahin
 
-This system is COPYLEFTED. Any extension or change you make must 
-  also remain in public domain (and free of charge).
-
-  See http://www.gnu.org/licenses/licenses.html#WhatIsCopyleft 
-    for Copyleft.
-----------------------------------------------------------------
-
 -----
 files
 -----
