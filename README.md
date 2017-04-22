@@ -2,6 +2,8 @@
 a demo system for CKY parsing of Combinatory Categorial Grammar with morphosyntactic categories,
 including normal-form parsing.
 
+This is the system used in the paper http://www.mitpressjournals.org/doi/abs/10.1162/089120102760173634#.WPnRCyGGPCI.
+
 ----------------------------------------------------------------
 Morphosyntactic CCG 
 version 0.4 
